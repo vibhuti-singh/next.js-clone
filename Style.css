@@ -1041,8 +1041,14 @@ background-image: url("images/container-1-responsive.png");
     }
     .c-5-l-left{
         height: 40%;
-        width: 95%;
+        width: 100%;
         align-items: center;
+    }
+   .starter, .ecom, .blog{
+    margin-right: 20px;
+   }
+    .ai{
+        display: none;
     }
    .edge{
         display: none;
