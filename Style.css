@@ -884,7 +884,7 @@ line-height: 30px;
     display: flex;
     justify-content: space-around;
 }
-@media(max-width:760px){
+@media(max-width:768px){
     .right-nav{
         display: none;
     }
